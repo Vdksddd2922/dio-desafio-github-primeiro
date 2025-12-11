@@ -2,10 +2,18 @@ body{
     background-color: #f7f7f7;
 }
 
+.Parte_cima_foto{
+    text-align: left;
+    margin-bottom: 30px;
+}
 .photo{
 border: 1px solid #505050;
 border-radius: 50%;
-width: 125px;
+width: 75px;
+height: auto;
+margin-top: 10px;
+margin-left: 10px;
+
 }
 
 
@@ -17,6 +25,8 @@ width: 125px;
 #title{
 font-size: 40px;
 text-transform: uppercase;
+margin-left: 100px;
+margin-top: -60px;
 }
 
 a{
@@ -35,19 +45,26 @@ padding: 10px;
 border:  3px solid #505050;
 margin-bottom: 15px;
 border-radius: 10px;
+width: 900px;
+margin: auto;
+
 }
 .post_content{
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: justify;
 }
 .post_image{
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .contact_list{
     list-style-type: none;
-    padding-left: 15px;
+    padding-left: 15pxpx;
+    background-color: black;
+    margin-top: 100px;
 }
 .contact_list li a{
     text-decoration: none;
