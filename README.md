@@ -1,2 +1,2 @@
-# Repositório do Desafio de Projeto sobre Git/Github da DIO
+# Meu repositório, onde guardo coisas úteis
 desafio do projeto sobre git/github
